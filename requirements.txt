@@ -22,7 +22,7 @@ oauthlib==3.1.1
 panda==0.3.1
 pandas==1.2.5
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-PyJWT==2.1.0
+PyJWT==2.4.0
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
